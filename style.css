@@ -1,25 +1,20 @@
-*{
+* {
     padding: 0px;
     margin: 0px;
     font-family: Arial, Helvetica, sans-serif;
     box-sizing: border-box;
 }
-.vertical-line{
+
+.vertical-line {
     height: 60px;
 
 }
-.nav-search{
+#dsa {
     width: 45%;
-    border: 1px solid red;
+    border: 20px solid rgb(15, 2, 2);
     height: 50px;
     border-radius: 6px;
     padding-left: 10px;
-
-}
-.nav-search>input{
-    border: none;
-    width: 90%;
-    height: 100%;
-    padding: 10px;
+    color: blue;
 
 }
