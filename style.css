@@ -5,16 +5,37 @@
     box-sizing: border-box;
 }
 
-.vertical-line {
-    height: 60px;
+#vertical_line {
+    height: 70px;
+    border :1px solid rgb(231,231,231);
 
 }
+
 #dsa {
     width: 45%;
-    border: 20px solid rgb(15, 2, 2);
-    height: 50px;
-    border-radius: 6px;
-    padding-left: 10px;
-    color: blue;
+    border: 1px solid #eeeeee);
+    border-radius: 5px;
+    padding-inline: 10px;
+    background-color: blue;
+    width: 40vw;
+}
+
+#dsa>input{
+    border : none;
+    background-color: transparent;
+    width: 95%;
+    height: 45px;
+}
+
+#nav_delivery>h5{
+    margin:0px;
+    font-family: 900;
+}
+
+#nav_delivery>p{
+    margin:0px;
+}
+
+#nav-search{
 
 }
